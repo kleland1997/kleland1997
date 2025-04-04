@@ -1,8 +1,8 @@
 ---
 title: "ALL SEASON LAWN PROS LLC"
 image: 
-  path: /images/so-simple-sample-image-3.jpg
-  thumbnail: /images/logo.png
+  path: lawn1.png
+  thumbnail: logo.png
 categories:
   - Layout
 tags:
